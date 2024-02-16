@@ -1,4 +1,14 @@
-- 👋 Hi, I’m @jamesfuraque /  James Furaque
+<h1>&#128187 My Favourite Languages</h1>
+<li>C#</li>
+<li>Java</li>
+<li>Python</li>
+<li>PHP</li>
+
+
+
+<h3>🙋‍♂️ About me</h3>
+
+- 👋 I'm James Furaque
 - 👀 I’m interested in Software Development, Object Oriented Programming and Open Source Development.
 - 🌱 I’m currently learning Full Stack Development while studying in George Brown College in a Computer Programming & Analysis Program.
 - 😄 Pronouns: he/him
