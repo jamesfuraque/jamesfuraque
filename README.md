@@ -1,5 +1,5 @@
 <h1>&#128187 My Favourite Languages</h1>
-<tr><li>C#</li> </tr>
+<li>C#</li>
 <li>Java</li>
 <li>Python</li>
 <li>PHP</li>
